@@ -31,6 +31,4 @@ Please refer to the original repository for the usage of kMoL (https://github.co
 │   ├── mila/                            : modules for federated learning
 │   └── self                             : scripts for self-training
 ├── LICENSE                              : LICENSE file
-├── README.md                            : this file
-├── setup.py                             :
-└── task_sparse_gcn.py                   : 
+└── README.md                            : this file
