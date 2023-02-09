@@ -18,13 +18,13 @@ Please refer to the original repository for the usage of kMoL (https://github.co
 ```
 .
 ├── data
-    ├── self_training_kinase             : data for kinase families
-        ├──cv1
-            ├──kinase_self_training
-                ├── config/              : configuration file
-                ├── data/                : dataset (csv)
-                ├── split/               : json files for split
-                └── run.sh               : script for running self-training
+|   ├── self_training_kinase             : data for kinase families
+|        ├──cv1
+|            ├──kinase_self_training
+|                ├── config/              : configuration file
+|                ├── data/                : dataset (csv)
+|                ├── split/               : json files for split
+|                └── run.sh               : script for running self-training
 ├── docker/                              : 
 ├── src                                  : source code
 │   ├── kmol/                            : modules for kmol
