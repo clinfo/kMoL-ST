@@ -11,4 +11,4 @@ bash install.sh
 
 ## Usage
 
-Please refer to the source repository of kMoL for the usage of kMoL (https://github.com/elix-tech/kmol). 
+Please refer to the original repository for the usage of kMoL (https://github.com/elix-tech/kmol). 
