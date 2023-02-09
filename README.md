@@ -32,3 +32,9 @@ Please refer to the original repository for the usage of kMoL (https://github.co
 │   └── self                             : scripts for self-training
 ├── LICENSE                              : LICENSE file
 └── README.md                            : this file
+```
+
+After moving to the ```./data/self_training_*/cv1/*_self_training/``` directory,  you can initialize the self-training by the following command:
+```bash
+bash run.sh
+```
