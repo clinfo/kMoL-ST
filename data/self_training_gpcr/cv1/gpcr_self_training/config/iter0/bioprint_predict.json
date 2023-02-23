@@ -29,7 +29,7 @@
     },
     "loader": {
         "type": "csv",
-        "input_path": "./data/self_training_gpcr/data/BioPrint_IC50_GPCR.csv",
+        "input_path": "./data/self_training_gpcr/data/BioPrint_inhibition_GPCR.csv",
         "input_column_names": ["smiles", "target_sequence"],
         "target_column_names": ["t_10u"]
     },
@@ -93,6 +93,6 @@
         "final_div_factor": 1000
     },
     "target_metric": "roc_auc",
-    "output_path": "./data/self_training_gpcr/cv1/gpcr_self_training/result/iter0/bioprint_predict",
+    "output_path": "./data/self_training_gpcr/cv1/gpcr_self_training/result/iter0/bioprint_inhibition_predict",
     "checkpoint_path": "./data/self_training_gpcr/cv1/gpcr_self_training/result/iter0/train/checkpoint_best.pt"
 }
