@@ -47,11 +47,11 @@ def get_parser():
     )
 
     parser.add_argument(
-        "--pos_prob", required=True, 
+        "--pos_prob", required=False, default=0.99 
     )
 
     parser.add_argument(
-        "-r", "--pos_rank", required=True
+        "-r", "--pos_rank", required=False, default=0.01
     )
     
     parser.add_argument(

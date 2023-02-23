@@ -29,7 +29,7 @@
     },
     "loader": {
         "type": "csv",
-        "input_path": "./data/self_training_kinase/data/BioPrint_inhibition_Kinase.csv",
+        "input_path": "./data/self_training_gpcr/data/BindingDB_All_Homosapiens_IC50_GPCR.csv",
         "input_column_names": ["smiles", "target_sequence"],
         "target_column_names": ["t_10u"]
     },
@@ -62,13 +62,13 @@
     "train_metrics": ["roc_auc", "accuracy", "pr_auc"],
     "test_metrics": ["roc_auc", "accuracy", "pr_auc"],
 
-    "epochs":60,
+    "epochs": 60,
     "batch_size": 512,
 
     "use_cuda": true,
     "enabled_gpus": [0],
 
-    "cache_location": "./data/self_training_kinase/data/cache/",
+    "cache_location": "./data/self_training_gpcr/data/cache/",
     "clear_cache": false,
 
     "log_level": "info",
@@ -93,6 +93,6 @@
         "final_div_factor": 1000
     },
     "target_metric": "roc_auc",
-    "output_path": "./data/self_training_kinase/cv1/kinase_self_training/result/iter0/bioprint_inhibition_predict",
-    "checkpoint_path": "./data/self_training_kinase/cv1/kinase_self_training/result/iter0/train/checkpoint_best.pt"
+    "output_path": "./data/self_training_gpcr/cv1/gpcr_self_training/result/iter0/bindingdb_all_predict",
+    "checkpoint_path": "./data/self_training_gpcr/cv1/gpcr_self_training/result/iter0/train/checkpoint_best.pt"
 }
