@@ -3,7 +3,7 @@
 
 
 Takuto Koyama, Shigeyuki Matsumoto, Hiroaki Iwata, Ryosuke Kojima, and Yasushi Okuno  
-Journal of Chemical Information and Modeling  
+**_Journal of Chemical Information and Modeling_**  
 https://pubs.acs.org/doi/10.1021/acs.jcim.3c00269  
 
 ## Installation
