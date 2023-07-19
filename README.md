@@ -1,8 +1,6 @@
 # Improving Compound-Protein Interaction Prediction by Self-Training with Augmenting Negative Samples.
 ![graphical abstract](/TOC.png)
 
-# kMoL-ST
-
 ## Installation
 
 Dependencies can be installed with conda:
