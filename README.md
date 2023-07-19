@@ -15,7 +15,7 @@ Datsets used for this work is avaiable. (https://drive.google.com/drive/folders/
 
 ## Usage of kMoL
 
-Please refer to the original repository for the usage of kMoL (https://github.com/elix-tech/kmol). 
+Please refer to the original repository for the usage of kMoL v.1.0.1 (https://github.com/elix-tech/kmol). 
 
 ## Directory structure
 
