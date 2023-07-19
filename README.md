@@ -1,5 +1,5 @@
 # Improving Compound-Protein Interaction Prediction by Self-Training with Augmenting Negative Samples.
-!(clinfo/kMoL-ST/TOC.png)
+!(TOC.png)
 
 # kMoL-ST
 
