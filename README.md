@@ -1,6 +1,5 @@
 # Improving Compound-Protein Interaction Prediction by Self-Training with Augmenting Negative Samples.
-![graphical abstract](/TOC.png)
-<img src="/TOC.png" width="50%">
+<img src="/TOC.png" width="75%">
 ## Installation
 
 Dependencies can be installed with conda:
