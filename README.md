@@ -1,5 +1,5 @@
 # Improving Compound-Protein Interaction Prediction by Self-Training with Augmenting Negative Samples.
-<img src="/TOC.png" width="75%">
+<img src="/TOC.png" width="60%">
 
 
 Takuto Koyama, Shigeyuki Matsumoto, Hiroaki Iwata, Ryosuke Kojima, and Yasushi Okuno  
